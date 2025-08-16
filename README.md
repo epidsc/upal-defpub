@@ -51,7 +51,7 @@ Buzzer BZ1: Active Piezo Buzzer (Alarm output)
 
 ## Schematic
 
-schematics/upal_rc_trigger_switch.png
+[schematics/upal_rc_trigger_switch.png](https://github.com/epidsc/upal-defpub/blob/main/schematics/upal_rc_trigger_switch.png)
 
 
 
