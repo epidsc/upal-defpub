@@ -1,0 +1,9 @@
+Ref,Part,Type,Notes
+Q1,BC547 / 2N3904,NPN BJT,Low-side switch
+BZ1,Active piezo buzzer,Alarm,3 V rated
+R1,100k–330k ?,Resistor,Sets delay with C1
+C1,47uF - 220uF,Electrolytic capacitor,"Delay capacitor, low leakage preferred"
+R2,10k - 47k  ?,Resistor,Base current limit
+R3,100k- 470k ?,Resistor,Base-emitter bleed (optional)
+D1,1N4148,Diode,Optional asymmetric timing across C1
+BT1,CR2032,Battery,3.0 V coin cell

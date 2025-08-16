@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this disclosure, please cite it."
+title: "Alarm Trigger RC Delay Low-Leakage Circuit for Unlocked Positioning Alarm Lock (UPAL) (Defensive Publication)"
+authors:
+  - family-names: Uruthireswaran
+    given-names: Sanathanan
+date-released: 2025-08-16
+version: "v1.0-prior-art"
+doi: ""
+license: CC0-1.0
